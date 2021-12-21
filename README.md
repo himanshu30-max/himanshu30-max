@@ -1,4 +1,4 @@
-### Hi there 👋 Himanshu!
+## Hi there 👋 Himanshu!
 
 <a href="https://www.linkedin.com/in/himanshu-banswal-418044200/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
