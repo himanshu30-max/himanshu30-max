@@ -21,8 +21,8 @@ I'm an enthusiastic and ambitious person for my goals and pusposes and I’m pas
 **himanshu30-max/himanshu30-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### About My Academic Interest 🚀
-  🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Electrical Engineering with specialization in Computer Science.
+  🎓 I’m an Open-Source enthusiast & a Btech Graduate with specialization in Computer Science.
 
-🎓 Apart from my Engineering Major, I am pursuing Bachlor in Science in Programming and Data Science from IIT Madras.
+🎓 Apart from my Engineering Major, I am pursuing B.S. in Programming and Data Science from IIT Madras.
 
 👨‍💻 I am passionate about Web Development, Web3.0, Blockchain, Machine Learning, Data Science & other new stuffs.
